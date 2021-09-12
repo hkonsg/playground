@@ -1,4 +1,5 @@
 # Playground
+Hakon Grini
 
 A place to play with `git`.
 
