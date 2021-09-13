@@ -1,5 +1,5 @@
 # Playground
-CS107, CS109a, AM207, Quantum computing
+Hakon Grini is taking CS107, CS109a, AM207 and Quantum computing
 
 A place to play with `git`.
 
